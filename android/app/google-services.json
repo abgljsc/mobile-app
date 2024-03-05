@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934823771313",
+    "firebase_url": "https://test-auth-c5dea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-auth-c5dea",
+    "storage_bucket": "test-auth-c5dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934823771313:android:86d9aa0f4f89232c7cb690",
+        "android_client_info": {
+          "package_name": "com.projectnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934823771313-m0gptg01r7gmu290pfouqug0qduneerf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFAqlREAyaqV9-8Q0JA-UIbMyU7gnC2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934823771313-m0gptg01r7gmu290pfouqug0qduneerf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
